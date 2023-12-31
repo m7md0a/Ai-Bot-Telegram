@@ -2,17 +2,17 @@
 
 ## install
 ```bash
-    npm i
+npm i
 ```
 
 ## run
 ```bash
-    npm start
+npm start
 ```
 
 ## add .env file
 ```bash
-    TOKEN_BOT= # telegram bot token from [Bot Father](https://t.me/BotFather)
-    AI_TOKEN=sk- # chatgpt token 
+TOKEN_BOT= # telegram bot token from [Bot Father](https://t.me/BotFather)
+AI_TOKEN=sk- # chatgpt token 
 ```
 
